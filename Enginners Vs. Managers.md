@@ -13,7 +13,7 @@ As every engineer knows,
       ------ = Power         --- = P
        Time                   T
  
-Since Knowledge = Power (K = P), and Time = Money (T = M),  we have: 
+Since `Knowledge = Power (K = P)`, and `Time = Money (T = M)`,  we have: 
  
        Work                      W
       ------- = Knowledge       --- = K
